@@ -16,7 +16,7 @@ btnNo.addEventListener("mouseover", () => {
 });
 
 btnYes.addEventListener("click", () => {
-    window.location.href = "mailto:your-tristan.cavite@gmail.com?subject=Date Request&body=I would love to go on a date!";
+    window.location.href = "mailto:tristan.cavite@gmail.com?subject=Date Request&body=I would love to go on a date!";
     imageOne.classList.add("hide");
     imageTwo.classList.remove("hide");
     btnNo.classList.add("hide");
